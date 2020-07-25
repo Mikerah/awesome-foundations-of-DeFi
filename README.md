@@ -21,6 +21,9 @@ An Awesome list for resources on the foundations of Decentralized Finance (DeFi)
 - [Options, Futures and other Derivatives](https://www.pearson.com/us/higher-education/product/Hull-Options-Futures-and-Other-Derivatives-9th-Edition/9780133456318.html)
 - [A History of Interest Rates](https://www.wiley.com/en-ca/A+History+of+Interest+Rates,+4th+Edition-p-9780471732839)
 
+## Videos
+
+- [What is an AMM and why do we need it?](https://www.youtube.com/watch?v=Ui1TBPdnEJU)
 
 ## Mathematics Background
 
