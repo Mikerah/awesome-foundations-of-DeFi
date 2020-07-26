@@ -35,7 +35,7 @@ An Awesome list for resources on the foundations of Decentralized Finance (DeFi)
 
 
 ### Cours and Lecture Notes
-- [Convex Optimization(https://web.stanford.edu/~boyd/cvxbook/bv_cvxslides.pdf)
+- [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxslides.pdf)
 
 ## People to Follow
 - [Tarun Chitra](https://twitter.com/tarunchitra)
