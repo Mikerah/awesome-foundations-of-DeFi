@@ -10,6 +10,20 @@ An Awesome list for resources on the foundations of Decentralized Finance (DeFi)
 - [Improved Price Oracles: Constant Function Market Makers](https://arxiv.org/pdf/2003.10001.pdf)
 - [Liquidity Provider Returns in Geometric Mean Markets](https://arxiv.org/pdf/2003.10001.pdf)
 
+### Stablecoins
+
+- [Stablecoins 2.0: Economic Foundations and Risk-based Models](https://arxiv.org/abs/2006.12388)
+- [While Stability Lasts: A Stochastic Model of Stablecoins](https://arxiv.org/abs/2004.01304)
+- [(In)Stability for the Blockchain: Deleveraging Spirals and Stablecoin Attacks](https://arxiv.org/abs/1906.02152)
+
+### Stress Testing
+
+- [The Decentralized Financial Crisis](https://arxiv.org/abs/2002.08099)
+
+### Collateral
+
+- [Balance: Dynamic Adjustment of Cryptocurrency Deposits](https://eprint.iacr.org/2019/675)
+
 ## Courses and Lecture Notes
 - [Incentives in Computer Science: Prediction Markets](http://timroughgarden.org/f16/l/l18.pdf)
 
