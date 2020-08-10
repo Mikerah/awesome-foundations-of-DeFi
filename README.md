@@ -10,6 +10,11 @@ An Awesome list for resources on the foundations of Decentralized Finance (DeFi)
 - [Improved Price Oracles: Constant Function Market Makers](https://arxiv.org/pdf/2003.10001.pdf)
 - [Liquidity Provider Returns in Geometric Mean Markets](https://arxiv.org/pdf/2003.10001.pdf)
 
+### DEXs
+
+- [Flash Boys 2.0:
+Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges](https://arxiv.org/pdf/1904.05234.pdf?kid=QWWTH)
+
 ### Stablecoins
 
 - [Stablecoins 2.0: Economic Foundations and Risk-based Models](https://arxiv.org/abs/2006.12388)
