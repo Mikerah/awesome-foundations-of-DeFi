@@ -11,8 +11,24 @@ An Awesome list for resources on the foundations of Decentralized Finance (DeFi)
 - [Liquidity Provider Returns in Geometric Mean Markets](https://arxiv.org/pdf/2003.10001.pdf)
 
 ### DEXs
+
 - [Flash Boys 2.0:
 Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges](https://arxiv.org/pdf/1904.05234.pdf?kid=QWWTH)
+
+### Stablecoins
+
+- [Stablecoins 2.0: Economic Foundations and Risk-based Models](https://arxiv.org/abs/2006.12388)
+- [While Stability Lasts: A Stochastic Model of Stablecoins](https://arxiv.org/abs/2004.01304)
+- [(In)Stability for the Blockchain: Deleveraging Spirals and Stablecoin Attacks](https://arxiv.org/abs/1906.02152)
+
+### Stress Testing
+
+- [The Decentralized Financial Crisis](https://arxiv.org/abs/2002.08099)
+
+### Collateral
+
+- [Balance: Dynamic Adjustment of Cryptocurrency Deposits](https://eprint.iacr.org/2019/675)
+
 
 ## Courses and Lecture Notes
 - [Incentives in Computer Science: Prediction Markets](http://timroughgarden.org/f16/l/l18.pdf)
@@ -39,10 +55,13 @@ Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized
 
 
 ### Cours and Lecture Notes
-- [Convex Optimization(https://web.stanford.edu/~boyd/cvxbook/bv_cvxslides.pdf)
+- [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxslides.pdf)
 
 ## People to Follow
 - [Tarun Chitra](https://twitter.com/tarunchitra)
 - [Guillermo Angeris](https://twitter.com/GuilleAngeris)
 - [Hasu](https://twitter.com/hasufl)
 - [Su Zhu](https://twitter.com/zhusu)
+- [Jun-You Liu](https://twitter.com/orbxball)
+- [Ariah Klages-Mundt](https://twitter.com/aklamun)
+- [Dominik Harz](https://twitter.com/dominik0_)
