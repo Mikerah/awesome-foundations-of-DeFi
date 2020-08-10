@@ -24,6 +24,7 @@ An Awesome list for resources on the foundations of Decentralized Finance (DeFi)
 
 - [Balance: Dynamic Adjustment of Cryptocurrency Deposits](https://eprint.iacr.org/2019/675)
 
+
 ## Courses and Lecture Notes
 - [Incentives in Computer Science: Prediction Markets](http://timroughgarden.org/f16/l/l18.pdf)
 
@@ -56,3 +57,6 @@ An Awesome list for resources on the foundations of Decentralized Finance (DeFi)
 - [Guillermo Angeris](https://twitter.com/GuilleAngeris)
 - [Hasu](https://twitter.com/hasufl)
 - [Su Zhu](https://twitter.com/zhusu)
+- [Jun-You Liu](https://twitter.com/orbxball)
+- [Ariah Klages-Mundt](https://twitter.com/aklamun)
+- [Dominik Harz](https://twitter.com/dominik0_)
