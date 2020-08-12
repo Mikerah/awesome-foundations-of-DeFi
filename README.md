@@ -35,6 +35,10 @@ Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized
 
 ## Articles
 
+- [Uniswap: A Good Deal for Liquidity Providers?](https://medium.com/@pintail/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2)
+- [Understanding Uniswap Returns](https://medium.com/@pintail/understanding-uniswap-returns-cc593f3499ef)
+- [Uniswap -- A Unique Exchange](https://medium.com/scalar-capital/uniswap-a-unique-exchange-f4ef44f807bf)
+
 ## Books
 
 - [Introduction to Quantitative Finance](https://www.oupcanada.com/catalog/9780199666584.html)
