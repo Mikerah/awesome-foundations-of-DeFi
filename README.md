@@ -9,6 +9,7 @@ An Awesome list for resources on the foundations of Decentralized Finance (DeFi)
 - [An Analysis of Uniswap Markets](https://arxiv.org/pdf/1911.03380.pdf)
 - [Improved Price Oracles: Constant Function Market Makers](https://arxiv.org/pdf/2003.10001.pdf)
 - [Liquidity Provider Returns in Geometric Mean Markets](https://arxiv.org/pdf/2003.10001.pdf)
+- [Logarithmic Market Scoring Rules for Modular Combinatorial Information Aggregation](http://mason.gmu.edu/~rhanson/mktscore.pdf)
 
 ### DEXs
 
