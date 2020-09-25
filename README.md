@@ -11,8 +11,8 @@ An Awesome list for resources on the foundations of Decentralized Finance (DeFi)
 - [Liquidity Provider Returns in Geometric Mean Markets](https://arxiv.org/pdf/2003.10001.pdf)
 - [Logarithmic Market Scoring Rules for Modular Combinatorial Information Aggregation](http://mason.gmu.edu/~rhanson/mktscore.pdf)
 - [Automated Market Making: Theory and Practice](http://reports-archive.adm.cs.cmu.edu/anon/2012/CMU-CS-12-123.pdf)
-- [Liquidity Provider Returns in Geometric Mean Markets](https://arxiv.org/pdf/2006.08806.pdf)
 - [Why Stake When You Can Borrow?](https://arxiv.org/abs/2006.11156)
+- [DeFi Protocols for Loanable Funds:Interest Rates, Liquidity and Market Efficiency](https://arxiv.org/pdf/2006.13922.pdf)
 
 ### DEXs
 
