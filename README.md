@@ -11,6 +11,8 @@ An Awesome list for resources on the foundations of Decentralized Finance (DeFi)
 - [Liquidity Provider Returns in Geometric Mean Markets](https://arxiv.org/pdf/2003.10001.pdf)
 - [Logarithmic Market Scoring Rules for Modular Combinatorial Information Aggregation](http://mason.gmu.edu/~rhanson/mktscore.pdf)
 - [Automated Market Making: Theory and Practice](http://reports-archive.adm.cs.cmu.edu/anon/2012/CMU-CS-12-123.pdf)
+- [Why Stake When You Can Borrow?](https://arxiv.org/abs/2006.11156)
+- [DeFi Protocols for Loanable Funds:Interest Rates, Liquidity and Market Efficiency](https://arxiv.org/pdf/2006.13922.pdf)
 
 ### DEXs
 
@@ -41,6 +43,7 @@ Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized
 - [Uniswap: A Good Deal for Liquidity Providers?](https://medium.com/@pintail/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2)
 - [Understanding Uniswap Returns](https://medium.com/@pintail/understanding-uniswap-returns-cc593f3499ef)
 - [Uniswap -- A Unique Exchange](https://medium.com/scalar-capital/uniswap-a-unique-exchange-f4ef44f807bf)
+- [Beginner’s Guide to (Getting Rekt by) Impermanent Loss](https://blog.bancor.network/beginners-guide-to-getting-rekt-by-impermanent-loss-7c9510cb2f22#:~:text=What%20Is%20Impermanent%20loss%3F,the%20greater%20the%20impermanent%20loss.)
 
 ## Books
 
@@ -51,6 +54,10 @@ Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized
 ## Videos
 
 - [What is an AMM and why do we need it?](https://www.youtube.com/watch?v=Ui1TBPdnEJU)
+
+## Podcasts
+
+- [Staking derivatives & DeFi with Alex Evans (and Tarun!)](https://www.zeroknowledge.fm/140)
 
 ## Mathematics Background
 
