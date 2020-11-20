@@ -45,6 +45,7 @@ Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized
 - [Understanding Uniswap Returns](https://medium.com/@pintail/understanding-uniswap-returns-cc593f3499ef)
 - [Uniswap -- A Unique Exchange](https://medium.com/scalar-capital/uniswap-a-unique-exchange-f4ef44f807bf)
 - [Beginner’s Guide to (Getting Rekt by) Impermanent Loss](https://blog.bancor.network/beginners-guide-to-getting-rekt-by-impermanent-loss-7c9510cb2f22#:~:text=What%20Is%20Impermanent%20loss%3F,the%20greater%20the%20impermanent%20loss.)
+- [Liquidity Mining: A User-Centric Token Distribution Strategy](https://medium.com/bollinger-investment-group/liquidity-mining-a-user-centric-token-distribution-strategy-1d05c5174641)
 
 ## Books
 
