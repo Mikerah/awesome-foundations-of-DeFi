@@ -38,6 +38,7 @@ Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized
 
 ## Courses and Lecture Notes
 - [Incentives in Computer Science: Prediction Markets](http://timroughgarden.org/f16/l/l18.pdf)
+- [PHDBA 297T.4 Decentralized Finance](https://berkeley-defi.github.io/) in Berkeley
 
 ## Articles
 
