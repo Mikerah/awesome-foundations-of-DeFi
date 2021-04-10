@@ -14,6 +14,9 @@ An Awesome list for resources on the foundations of Decentralized Finance (DeFi)
 - [Why Stake When You Can Borrow?](https://arxiv.org/abs/2006.11156)
 - [DeFi Protocols for Loanable Funds:Interest Rates, Liquidity and Market Efficiency](https://arxiv.org/pdf/2006.13922.pdf)
 - [A Practical Liquidity-Sensitive Automated Market Maker](https://www.cs.cmu.edu/~./sandholm/liquidity-sensitive%20automated%20market%20maker.teac.pdf)
+- [When does the tail wag the dog? Curvature and market making](https://arxiv.org/abs/2012.08040)
+- [Replicating Market Makers](https://arxiv.org/abs/2103.14769)
+- [Optimal Fees for Geometric Mean Market Makers](https://arxiv.org/abs/2104.00446)
 
 ### DEXs
 
