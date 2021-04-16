@@ -17,6 +17,7 @@ An Awesome list for resources on the foundations of Decentralized Finance (DeFi)
 - [When does the tail wag the dog? Curvature and market making](https://arxiv.org/abs/2012.08040)
 - [Replicating Market Makers](https://arxiv.org/abs/2103.14769)
 - [Optimal Fees for Geometric Mean Market Makers](https://arxiv.org/abs/2104.00446)
+- [YieldSpace: An Automated Liquidity Provider for Fixed Yield Tokens](https://yield.is/YieldSpace.pdf)
 
 ### DEXs
 
