@@ -14,6 +14,7 @@ An Awesome list for resources on the foundations of Decentralized Finance (DeFi)
 - [Why Stake When You Can Borrow?](https://arxiv.org/abs/2006.11156)
 - [DeFi Protocols for Loanable Funds:Interest Rates, Liquidity and Market Efficiency](https://arxiv.org/pdf/2006.13922.pdf)
 - [A Practical Liquidity-Sensitive Automated Market Maker](https://www.cs.cmu.edu/~./sandholm/liquidity-sensitive%20automated%20market%20maker.teac.pdf)
+- [YieldSpace: An Automated Liquidity Provider for Fixed Yield Tokens](https://yield.is/YieldSpace.pdf)
 
 ### DEXs
 
