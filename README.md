@@ -28,7 +28,7 @@ Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized
 
 - [Stablecoins 2.0: Economic Foundations and Risk-based Models](https://arxiv.org/abs/2006.12388)
 - [While Stability Lasts: A Stochastic Model of Stablecoins](https://arxiv.org/abs/2004.01304)
-- [(In)Stability for the Blockchain: Deleveraging Spirals and Stablecoin Attacks](https://arxiv.org/abs/1906.02152)
+- [(In)Stability for the Blockchain: Deleveraging Spirals and Stablecoin Attacks](https://arxiv.org/abs/1906.02152) [[📺 video]](https://www.youtube.com/watch?v=qOi50UtxL7A)
 - [SoK: A Classification Framework for Stablecoin Designs](https://fc20.ifca.ai/preproceedings/119.pdf)
 - [stablecoins.wtf – Stablecoin Data-Dashboard & Educational Content about Stablecoins](https://stablecoins.wtf)
 
