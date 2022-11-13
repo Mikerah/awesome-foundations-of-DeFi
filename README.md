@@ -78,6 +78,7 @@ Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized
 
 ### Cours and Lecture Notes
 - [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxslides.pdf)
+- [Romano's personal notes on Options and Derivatives Trading](https://publish.obsidian.md/rnr/Index)
 
 ## People to Follow
 - [Tarun Chitra](https://twitter.com/tarunchitra)
