@@ -46,7 +46,7 @@ Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized
 - [PHDBA 297T.4 Decentralized Finance](https://berkeley-defi.github.io/) in Berkeley
 
 ## Articles
-
+- [Dipping into a Liquidity Pool](https://medium.com/p/905a615f0758)
 - [Uniswap: A Good Deal for Liquidity Providers?](https://medium.com/@pintail/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2)
 - [Understanding Uniswap Returns](https://medium.com/@pintail/understanding-uniswap-returns-cc593f3499ef)
 - [Uniswap -- A Unique Exchange](https://medium.com/scalar-capital/uniswap-a-unique-exchange-f4ef44f807bf)
