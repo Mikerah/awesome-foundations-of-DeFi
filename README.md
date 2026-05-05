@@ -41,6 +41,11 @@ Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized
 - [Balance: Dynamic Adjustment of Cryptocurrency Deposits](https://eprint.iacr.org/2019/675)
 
 
+
+### Developer Tools
+
+- [evmchain-config](https://github.com/harunosakura030303-maker/evmchain-config) - Universal EVM chain configuration manager for Hardhat, Foundry, viem, and ethers. Simplifies multi-chain deployment setups.
+
 ## Courses and Lecture Notes
 - [Incentives in Computer Science: Prediction Markets](http://timroughgarden.org/f16/l/l18.pdf)
 - [PHDBA 297T.4 Decentralized Finance](https://berkeley-defi.github.io/) in Berkeley
