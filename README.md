@@ -79,6 +79,8 @@ Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized
 ### Cours and Lecture Notes
 - [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxslides.pdf)
 - [Romano's personal notes on Options and Derivatives Trading](https://publish.obsidian.md/rnr/Index)
+- [HostDeFi](https://hostdefi.com) - Token-safety scanner and multi-chain DEX front-end: free A+–F risk grades on Solana and 8 EVM chains plus a keyless REST API.
+
 
 ## People to Follow
 - [Tarun Chitra](https://twitter.com/tarunchitra)
