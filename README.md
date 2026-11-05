@@ -88,3 +88,4 @@ Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized
 - [Jun-You Liu](https://twitter.com/orbxball)
 - [Ariah Klages-Mundt](https://twitter.com/aklamun)
 - [Dominik Harz](https://twitter.com/dominik0_)
+- [DefiLPKit](https://defilpkit.com) - Free LP calculator: fee APR and estimated net yield after impermanent loss and gas.
